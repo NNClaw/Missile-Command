@@ -19,4 +19,4 @@ The main way to navigate and play the game is by using mouse and LMB (Left Mouse
 * There is a score count for the player. Each destroyed "rocket" is 200 points;
 * The game is over, when the life count is depleted and it is done by enemy "rockets" touching the ground.
 
-*Unity version *2020.3.24f1*
+*Unity version *2020.3.24f1**
